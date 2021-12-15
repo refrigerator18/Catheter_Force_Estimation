@@ -1,5 +1,7 @@
 # Catheter Force Estimation
-Relevant code for our paper, ["Mathematical modeling and vision-based force estimation in a planar catheter using deep learning"](https://huzaifazar.me/catheter_force_estimation.pdf)
+Relevant code for our paper, ["Mathematical modeling and vision-based force estimation in a planar catheter using deep learning"](https://huzaifazar.me/catheter_force_estimation.pdf). A sample dataset is provided.
+
+**The dataset used in the paper makes use of more complex curves.*
 
 ## Code Breakdown:
 
