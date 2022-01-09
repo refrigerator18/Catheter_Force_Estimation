@@ -15,6 +15,8 @@ We have dataset of various simulated catheters with forces applied. The goal wit
 ![final_61b96a6ab6df2f009b829b00_531529](https://user-images.githubusercontent.com/57844356/146122418-edb37209-3fcb-45bd-85a6-e249e2bba124.png)
 
 
-### 2. Training using RandomForest
+### 2. Training using RandomForest and Neural Network
 
- Using the mathematical mo 
+ Using the mathematical model data (Processed_Data.csv), we can now start training. The algorithms are optimized as seen in the paper (Sections IV, part E and F). Using RandomForest, we obtain a Mean Average Error (MAE) of 1.36N using the data given. Using a Neural Network architecture, we obtain 0.52N MAE. 
+ 
+ 
