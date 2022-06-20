@@ -5,7 +5,7 @@ Relevant code for our paper, ["Mathematical modeling and vision-based force esti
 
 ## Code Breakdown:
 
-  The goal of this paper was to use machine learning techniques to predict the applied forces on a simulated cathter. The code for this project is split into three major sections, image processing via OpenCV, training via RandomForest, and training via Nueral Netwroks.
+  The goal of this paper was to use machine learning techniques to predict the applied forces on a simulated catheter. The code for this project is split into three major sections, image processing via OpenCV, training via RandomForest, and training via Nueral Netwroks.
 
 ### 1. Image Processing
 
